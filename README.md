@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=4fff67&size=51&center=true&vCenter=true&width=950&height=100&lines=WELLCOME+TO+GITHUB;I'M+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=4fff67&size=51&center=true&vCenter=true&width=950&height=90&lines=WELLCOME+TO+GITHUB;I'M+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
 <img src="giphy.gif" height="36px" width="100%">
 
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="175px" width="300px">
@@ -73,5 +73,5 @@
 <p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Bt"height="175px" width="300px">
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?font=Cursive&amp;color=9BE2FF&amp;size=32&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cursive&amp;color=9BE2FF&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...;" style="width: 100%;">
 <a href=https://www.mediafire.com/file/b2rvmf3n7d03vqw/Pydroid3-arm-Premium-Apk-2022.apk/file">PYTHON COMPILER </a>
