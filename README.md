@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=4fff67&size=51&center=true&vCenter=true&width=950&height=105&lines=WELL+COME+TO+GITHUB;MY+NAME+IS+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fantasy&color=4fff67&size=51&center=true&vCenter=true&width=950&height=100&lines=WELLCOME+TO+GITHUB;I'M+DHANANJAYA..;I+'M+CURRENTLY+LEARNING+PYTHON...;NICE+TO+MEET+YOU+...💫)](https://github.com/DhananjayaMax)
 <img src="giphy.gif" height="36px" width="100%">
 
 <p align="center"><img src="https://miro.medium.com/max/828/1*5_-vAY4eZmoSzW9eXq6ABw.gif" alt="Bt"height="175px" width="300px">
