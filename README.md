@@ -13,12 +13,12 @@
 
 ### 💫 ABOUT ME 
 
-- 👋 I'm *Dhananjaya* Max.
+- 👋 I'm *DhananjayaX*.
 - ☝ I'm 17 Years Old.
-- 🔭 I’m still student 
-- 💖 My Hoby is Cording
+- 🔭 I’m still a student 
+- 💖 My Hobby is Coding
 - 🔥 I'm currently learning python.
-- ✊ I’m always help everyone.
+- ✊ I always help everyone.
 - 💬 Ask me anything.
 
 ### SOMETHING TO KNOW...🖋️
