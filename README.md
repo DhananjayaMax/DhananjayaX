@@ -1,4 +1,4 @@
-##  HÊLLØ ÊVERĪØNE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
+##  HÊLLØ ÊVERYØNE &nbsp;<img  align="" alt="Coding" width="24" height="35" src="https://chuangwei.oss-accelerate.aliyuncs.com/mini/product/en/W92/img/s4-intelligence/trens-ai-voice-robot.gif">&nbsp;<img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" height="35px" width="40px">
 
 <a href="https://github.com/DhananjayaMax?tab=followers"><img title="Wellcome" src="https://img.shields.io/badge/WELLCOME%20TO%20GITHUB-Dhananjaya_Max-SCRIPT?colorA=e80000&colorB=FAFA0B&colorC=71ff00&style=for-the-badge&logo=github"></a>
 
